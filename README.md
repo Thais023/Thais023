@@ -1,7 +1,7 @@
 
 ### Olá pessoal! 👋
 
-## Meu nome é Thais
+## Meu nome é Thais:wink:
 
 
 
