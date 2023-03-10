@@ -1,5 +1,5 @@
 
-### Olá pessoal! 👋
+# Olá pessoal! 👋
 
 ### Meu nome é Thais:wink:
 ### Sou uma pessoa interessada em aprender coisas novas sobre tecnologia:grin:
